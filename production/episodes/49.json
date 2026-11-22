@@ -1,0 +1,14 @@
+{
+    "title": "Microsoft's Outage Post-Mortem, Backdoored Coding Agents, AI Code Review, PHP 8.6",
+    "description": "Microsoft's final outage report shows how a bug its tests missed was spread around the world by its own failover and recovery systems. Microsoft researchers also show how a handful of poisoned training examples can turn a coding agent against you, and Rootly asks whether human code review still works now that agents write most of the code. Plus GitHub's new evals for AI setups and the release of PHP 8.6.",
+    "filename": "1795324606_Weekly-49-upload.mp3",
+    "storage_disk": "r2",
+    "url": "/episodes/1795324606_Weekly-49-upload.mp3",
+    "file_size": "3.39 MB",
+    "format": "MP3",
+    "published_date": "2026-11-23",
+    "duration": 8.47,
+    "created_at": "2026-11-22 05:16:47",
+    "updated_at": "2026-11-22 05:16:47",
+    "id": 49
+}
